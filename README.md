@@ -2,4 +2,4 @@
 Another implementation of a genetic algorithm.
 
 
-# Evolution of Colored Bodies
+Evolution of colored bodies with a camouflage selection mechanism.
